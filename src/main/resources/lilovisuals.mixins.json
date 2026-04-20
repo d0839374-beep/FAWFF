@@ -6,7 +6,7 @@
   "mixins": [],
   "client": [
     "MinecraftMixin",
-    "PauseMenuMixin"
+    "GameMenuScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1

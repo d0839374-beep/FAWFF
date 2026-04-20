@@ -1,3 +1,38 @@
 ```
+# Gradle build artifacts
+build/
 .gradle/
+
+# Compiled Java classes
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# OS generated files
+.DS_Store
+Thumbs.db
 ```
