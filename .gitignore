@@ -1,0 +1,32 @@
+```
+# Gradle
+.gradle/
+build/
+dist/
+out/
+
+# Dependencies
+libs/
+lib/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Temp files
+*.tmp
+*.temp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.env.*
+```
