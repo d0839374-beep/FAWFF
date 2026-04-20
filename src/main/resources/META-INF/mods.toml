@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="lilovisuals"
+version="1.0.0"
+displayName="Lilo's Visuals"
+authors="Lilo"
+description='''
+Modern visual mod with custom ClickGUI, HUD and screen replacements.
+'''
+logoFile="logo.png"
+
+[[dependencies.lilovisuals]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.lilovisuals]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

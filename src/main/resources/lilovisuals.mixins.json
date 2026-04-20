@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.lilo.visuals.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "lilovisuals.refmap.json",
+  "mixins": [],
+  "client": [
+    "MinecraftMixin",
+    "PauseMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
